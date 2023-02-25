@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "59cf984b9192b972",
+    "type": "split",
+    "children": [
+      {
+        "id": "9de60677d142594e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63aa4a0e28939fd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "美國見聞-富人住鄉下？窮人住都市？.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8ea08808efa801d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "美國見聞-富人住鄉下？窮人住都市？.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "beb413a0d4a43b8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e3c5e857df3badc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d9ffe2b80414d1f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "758373b357eb7f3f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "72c24c3119e369e5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "173567b8a9da8e71",
+    "type": "split",
+    "children": [
+      {
+        "id": "adcb8b42c8915dff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fe4a1ee56a52ea8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "美國見聞-富人住鄉下？窮人住都市？.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4867d92745d1f4e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "美國見聞-富人住鄉下？窮人住都市？.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd4a061f60eab7f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c927a6b69a1abfa7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "美國見聞-富人住鄉下？窮人住都市？.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "3d9ffe2b80414d1f",
+  "lastOpenFiles": [
+    "README.md",
+    "未命名.md",
+    "美國見聞-美國交通.md",
+    "美國見聞-富人住鄉下？窮人住都市？.md",
+    "未命名"
+  ]
+}
